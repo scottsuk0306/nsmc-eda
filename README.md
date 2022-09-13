@@ -32,3 +32,7 @@ https://www.kaggle.com/code/christofhenkel/how-to-preprocessing-for-glove-part1-
 https://www.kaggle.com/code/ekhtiar/unintended-eda-with-tutorial-notes
 
 https://www.kaggle.com/code/nz0722/simple-eda-text-preprocessing-jigsaw
+---
+General NLP EDA
+
+https://neptune.ai/blog/exploratory-data-analysis-natural-language-processing-tools
